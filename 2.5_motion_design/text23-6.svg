@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="775.80719"
+   height="102.3693"
+   viewBox="0 0 775.80719 102.3693"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24" />
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-36" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter50"
+       x="-0.030304495"
+       y="-0.38195509"
+       width="1.060609"
+       height="1.7639102">
+      <feGaussianBlur
+         stdDeviation="9 9"
+         result="blur"
+         id="feGaussianBlur50" />
+    </filter>
+  </defs>
+  <g
+     id="layer2"
+     transform="translate(-44.930958,-30.610695)">
+    <rect
+       style="fill:#131313;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       id="rect23"
+       width="1918.9235"
+       height="1080.7832"
+       x="0.88880199"
+       y="-0.88880199" />
+    <text
+       xml:space="preserve"
+       id="text23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="translate(-2.6664059,-910.13322)"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan2">Startup Initialized</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-36);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;filter:url(#filter50)"
+       transform="translate(-1.5308006,-909.74814)"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan3">Startup Initialized</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="02_styleframe.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.562555"
+     inkscape:cx="964.35014"
+     inkscape:cy="585.7205"
+     inkscape:window-width="1887"
+     inkscape:window-height="1027"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-36" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter50"
+       x="-0.053160931"
+       y="-0.40127261"
+       width="1.1063219"
+       height="1.8025452">
+      <feGaussianBlur
+         stdDeviation="9 9"
+         result="blur"
+         id="feGaussianBlur50" />
+    </filter>
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24" />
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-36-5" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter50-6"
+       x="-0.04423565"
+       y="-0.38195509"
+       width="1.0884713"
+       height="1.7639102">
+      <feGaussianBlur
+         stdDeviation="9 9"
+         result="blur"
+         id="feGaussianBlur50-2" />
+    </filter>
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-3" />
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-3-1" />
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-3-1-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#131313;fill-opacity:1;stroke:#000000;stroke-width:1.134;stroke-opacity:1;stroke-dasharray:none"
+       id="rect1"
+       width="1918.9877"
+       height="1083.7405"
+       x="6.1624975"
+       y="5.5340195"
+       ry="6.2490358" />
+    <text
+       xml:space="preserve"
+       id="text23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="matrix(1.0001948,0,0,0.76399779,632.25012,285.27377)"
+       inkscape:label="SectionText"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan1">Cyclic Nature
+</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-3);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="matrix(1.0001948,0,0,0.76399779,798.29834,-548.72397)"
+       inkscape:label="SectionText"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan2">Build</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-7-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-3-1);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="matrix(1.0001948,0,0,0.76399779,1118.7163,-53.030883)"
+       inkscape:label="SectionText"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan3">Measure</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-7-9-1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-3-1-2);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="matrix(1.0001948,0,0,0.76399779,401.30196,-39.24021)"
+       inkscape:label="SectionText"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan4">Learn</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-36-5);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;filter:url(#filter50-6)"
+       transform="matrix(1.0001948,0,0,0.76399779,633.38594,285.56797)"
+       inkscape:label="SectionGlow"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan5">Cyclic Nature
+</tspan></text>
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none;stroke-opacity:1"
+       d="m 598.35885,597.56614 c 0,0 -86.63525,-170.25787 112.68251,-260.76726 l 33.47465,65.12877 30.37228,-111.48094 -101.50904,-53.44902 17.69154,44.61568 c 0,0 -225.21604,140.93629 -134.9913,325.06885 z"
+       id="path1" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1100.077,739.23023 c 0,0 -92.6445,167.0641 -279.1783,52.50131 l 35.25236,-64.18398 -109.39253,37.1988 12.49282,114.03869 27.08088,-39.62543 c 0,0 242.81937,107.81491 344.95537,-69.98705 z"
+       id="path1-2" />
+    <path
+       style="fill:#000000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1161.9905,280.89769 c 0,0 190.7896,9.6314 170.0499,227.552 l -73.149,-3.39462 81.5607,81.84334 96.8919,-61.42336 -47.5011,-6.86972 c 0,0 -10.0992,-265.48697 -214.7087,-278.91313 z"
+       id="path1-3" />
+  </g>
+</svg>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="08_styleframe.svg"
+   inkscape:export-filename="08_styleframe.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.76927083"
+     inkscape:cx="803.35816"
+     inkscape:cy="554.42113"
+     inkscape:window-width="3774"
+     inkscape:window-height="1027"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24-36" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Blur"
+       id="filter50"
+       x="-0.028716612"
+       y="-0.38195509"
+       width="1.0574332"
+       height="1.7639102">
+      <feGaussianBlur
+         stdDeviation="9 9"
+         result="blur"
+         id="feGaussianBlur50" />
+    </filter>
+    <rect
+       x="65.771347"
+       y="951.90692"
+       width="922.57648"
+       height="95.101807"
+       id="rect24" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#131313;fill-opacity:1;stroke:#e42e2e;stroke-width:1.134;stroke-dasharray:none;stroke-opacity:1;opacity:1"
+       id="rect23"
+       width="1918.9235"
+       height="1080.7832"
+       x="3.4051893"
+       y="3.3446066" />
+    <text
+       xml:space="preserve"
+       id="text23"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386"
+       transform="matrix(1.0001948,0,0,0.76399779,478.53293,235.24732)"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan3">What will you teach?</tspan></text>
+    <text
+       xml:space="preserve"
+       id="text23-6"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.496px;font-family:'Space Mono';-inkscape-font-specification:'Space Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect24-36);display:inline;fill:#ffb000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;filter:url(#filter50)"
+       transform="matrix(1.0001948,0,0,0.76399779,479.66875,235.54152)"><tspan
+         x="65.771484"
+         y="1007.8618"
+         id="tspan4">What will you teach?</tspan></text>
+    <path
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none"
+       id="path1"
+       sodipodi:type="arc"
+       sodipodi:cx="969.7464"
+       sodipodi:cy="478.89847"
+       sodipodi:rx="133.28268"
+       sodipodi:ry="133.28268"
+       sodipodi:start="0"
+       sodipodi:end="6.2805041"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 1103.0291,478.89847 A 133.28268,133.28268 0 0 1 969.83574,612.18112 133.28268,133.28268 0 0 1 836.46383,479.07715 133.28268,133.28268 0 0 1 969.47838,345.61605 133.28268,133.28268 0 0 1 1103.0286,478.54111" />
+    <path
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none"
+       id="path2"
+       sodipodi:type="arc"
+       sodipodi:cx="967.44849"
+       sodipodi:cy="479.81769"
+       sodipodi:rx="145.61644"
+       sodipodi:ry="144.69725"
+       sodipodi:start="0"
+       sodipodi:end="6.2805041"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       d="M 1113.0649,479.81769 A 145.61644,144.69725 0 0 1 967.54609,624.51491 145.61644,144.69725 0 0 1 821.83218,480.01167 145.61644,144.69725 0 0 1 967.15567,335.12073 a 145.61644,144.69725 0 0 1 145.90873,144.309" />
+    <rect
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none"
+       id="rect2"
+       width="41.053551"
+       height="210.76796"
+       x="1040.5823"
+       y="-59.205067"
+       transform="rotate(37.323502)"
+       inkscape:export-filename="MagnifyingGlass.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none"
+       id="rect3"
+       width="200.18958"
+       height="137.79282"
+       x="444.57684"
+       y="426.37778"
+       inkscape:export-filename="FirstRect.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:2;stroke-dasharray:none"
+       id="rect4"
+       width="147.44528"
+       height="173.44392"
+       x="901.87646"
+       y="389.70322" />
+    <rect
+       style="opacity:1;fill:#ffb000;fill-opacity:0;stroke:#ffb000;stroke-width:1.134;stroke-dasharray:none"
+       id="rect5"
+       width="224.88829"
+       height="261.28638"
+       x="1260.9343"
+       y="323.68314"
+       inkscape:export-filename="LastRect.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
