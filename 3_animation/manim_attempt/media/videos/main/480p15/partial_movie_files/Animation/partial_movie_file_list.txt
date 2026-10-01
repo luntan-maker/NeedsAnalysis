@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:/home/luke/Projects/Videos/NeedsAnalysis/3_animation/media/videos/main/480p15/partial_movie_files/Animation/3875506375_2665716587_223132457.mp4'
-file 'file:/home/luke/Projects/Videos/NeedsAnalysis/3_animation/media/videos/main/480p15/partial_movie_files/Animation/2409701735_2866368504_3433111113.mp4'
-file 'file:/home/luke/Projects/Videos/NeedsAnalysis/3_animation/media/videos/main/480p15/partial_movie_files/Animation/2699634962_4067751069_3918486556.mp4'
-file 'file:/home/luke/Projects/Videos/NeedsAnalysis/3_animation/media/videos/main/480p15/partial_movie_files/Animation/1431950571_2968904986_1642095330.mp4'
